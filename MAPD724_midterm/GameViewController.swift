@@ -1,7 +1,7 @@
 //
 //  StartScene.swift
-//  ICE_4
-//
+//  Ios midterm
+//  Mail pilot game
 //  Created by Chetan Patel on 2023-03-3.
 //  StudentID 301294334
 
