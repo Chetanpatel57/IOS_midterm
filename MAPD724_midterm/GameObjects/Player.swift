@@ -6,7 +6,7 @@ class Player : GameObject
     // Initializer
     init()
     {
-        super.init(imageString: "plane", initialScale: 2.0)
+        super.init(imageString: "plane1", initialScale: 2.0)
         Start()
     }
     
